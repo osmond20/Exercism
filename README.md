@@ -1,2 +1,4 @@
 # Exercism
-Repository for practising
+Repository for practising Java
+
+- My exercism solutions are found here.
